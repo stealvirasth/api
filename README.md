@@ -1,11 +1,10 @@
-## For install Tutorial [HERE](https://www.youtube.com/watch?v=tw5OraE7C4c&feature=youtu.be)
+
 # LINE Python
 
 *LINE Messaging's private API*
 
 ----
 
-# JANGAN LUPA ADD [ADITMADZS BOT](line.me/ti/p/~botaditmadzs)
 
 ## Termux
 
