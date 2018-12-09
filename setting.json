@@ -1,0 +1,55 @@
+{
+    "autoAdd": {
+        "status": false,
+        "message": "",
+        "reply": true
+    },
+    "autoJoin": {
+        "status": false,
+        "message": "",
+        "reply": true,
+        "ticket": false
+    },
+    "autoRead": false,
+    "autoRespond": {
+        "status": false,
+        "message": ""
+    },
+    "autoRespondMention": {
+        "status": true,
+        "message": ""
+    },
+    "changeGroupPicture": [],
+    "changePictureProfile": false,
+    "changeCoverPicture": false,
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "defaultReplyReader": "",
+    "greet": {
+        "join": {
+            "status": true,
+            "message": ""
+        },
+        "leave": {
+            "status": false,
+            "message": ""
+        }
+    },
+    "myProfile": {
+        "coverId": "1b84f760586ae2affb8f436b72f750c7",
+        "displayName": "\u2022Magicavi~[\u30c9\u30b3\u30e2\u30dd\u30a4\u30f3\u30c8][\u30c9\u30b3\u30e2\u30dd\u30a4\u30f3\u30c8][\u30c9\u30b3\u30e2\u30dd\u30a4\u30f3\u30c8][\u30c9\u30b3\u30e2\u30dd\u30a4\u30f3\u30c8][\u30c9\u30b3\u30e2\u30dd\u30a4\u30f3\u30c8][\u30c9\u30b3\u30e2\u30dd\u30a4\u30f3\u30c8][\u30c9\u30b3\u30e2\u30dd\u30a4\u30f3\u30c8][\u30c9\u30b3\u30e2\u30dd\u30a4\u30f3\u30c8][\u30c9\u30b3\u30e2\u30dd\u30a4\u30f3\u30c8][\u30c9\u30b3\u30e2\u30dd\u30a4\u30f3\u30c8]",
+        "pictureStatus": "0h303880vRbB8OQUGXxNMTSDIEYnJ5b2pXdiFzLiJGMCggeX9LYCIgentENCkmdipNZyMreCMVNit0",
+        "statusMessage": "ID: api_2001\n\nThis is a python\n\nYou can add friend Me.\n\nIn Love My Friend \n\n\u0e42\u0e15\u0e41\u0e25\u0e49\u0e27\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22\u0e40\u0e22\u0e2d\u0e30 \u0e04\u0e38\u0e22\u0e40\u0e25\u0e2d\u0e30\u0e40\u0e17\u0e2d\u0e30\u0e21\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22.\n\n\u250c\u2500\u2500\u25aa[ Dvloper] \u25aa\u2500\u2500\u25aa\n \u2514\u2500\u2500\u2500\u2500\u25aa> \u2772 My Type \u2773\nMy Name Is \u0e44\u0e17\u0e49\u0e1e\u0e4c"
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "setKey": {
+        "status": true,
+        "key": "."
+    },
+    "copyright": "If you respect the author please don't remove this copyright\n\u00a9 2018 Magicavi",
+    "author_lineid": "You can add the author by line id, https://line.me/ti/p/~api_2001"
+}
